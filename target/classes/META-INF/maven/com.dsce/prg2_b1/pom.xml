@@ -22,7 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>first.Result</mainClass>
+              <mainClass>prg2_b1.Result</mainClass>
             </manifest>
           </archive>
         </configuration>
